@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Maysara:
 🔭 Information Technology undergraduate at King Abdulaziz University.<br>👯 Looking forward to enhance my programming skills.<br>🤝 Completed multiple projects related to System Design, UI/UX, and other Computer Science Career Projects.<br>🌱 Passionate about continuous learning in the tech field and enhancing my skills.<br>
 
 
